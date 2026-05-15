@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+google-generativeai
+python-dotenv
+httpx
+PyPDF2
+python-docx
+Pillow
+pytesseract
+indic-transliteration
+gTTS
+pdfplumber
+langdetect
